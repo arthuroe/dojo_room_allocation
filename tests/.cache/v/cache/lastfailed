@@ -1,0 +1,11 @@
+{
+  "test_dojo.py::DojoTestCase::test_add_person_successfully": true, 
+  "test_dojo.py::DojoTestCase::test_add_person_when_person_already_exists": true, 
+  "test_dojo.py::DojoTestCase::test_add_unknown_person_type": true, 
+  "test_dojo.py::DojoTestCase::test_create_multiple_rooms": true, 
+  "test_dojo.py::DojoTestCase::test_create_room_if_room_already_exists": true, 
+  "test_dojo.py::DojoTestCase::test_create_room_successfully": true, 
+  "test_dojo.py::DojoTestCase::test_create_unknown_room_type": true, 
+  "test_dojo.py::DojoTestCase::test_initial_add_person_check": true, 
+  "test_dojo.py::DojoTestCase::test_initial_room_check": true
+}
